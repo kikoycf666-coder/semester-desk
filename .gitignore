@@ -1,0 +1,7 @@
+# Never commit your own synced data or exports
+*.json
+!package.json
+data/
+exports/
+.DS_Store
+*.local.html
